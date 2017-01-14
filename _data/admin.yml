@@ -1,38 +1,43 @@
-- name: Madeleine Bonsma
-  position: President
-  degree: PhD, Physics
-  github: mbonsma
-  interests:
-    - Python
-
-- name: Lindsay Coome
-  position: Special Events Coordinator
-  degree: PhD, Psychology
-  github: lcoome
+- name: Danielle Robinson
+  job title: Mozilla Fellow for Science 2016
+  degree: PhD, Neuroscience
+  github: daniellecrobinson
   interests:
     - R
+    - Data visualization
+    - Open data and data policy issues
 
-- name: Luke W Johnston
-  position: Treasurer
-  degree: PhD, Nutritional Sciences
-  github: lwjohnst86
+- name: Lilly Winfree, PhD
+  job title: Science and Data Analyst at the Monarch Initiative
+  degree: PhD, Neuroscience 2016
+  github: 
   interests:
     - R
-    - SAS
-
-- name: Elliott Sales de Andrade
-  position: Technical Admin
-  degree: PhD, Physics
-  github: QuLogic
-  interests:
-    - Fortran
     - Python
-    - Visualization
+    - Data visualization
 
-- name: Lina Tran
-  position: Admin
-  degree: PhD, Physiology
-  github: linamnt
+- name: Robin Champieux
+  job title: OHSU Scholarly communications Librarian
+  degree: MILS, Library Science
+  github: 
+  interests:
+    - Open Data
+    - Data visulaizaiton
+    - Data management
+    - Data sharing
+
+ name: Letisha Wyatt
+ job title: OHSU Basic Science Liaison and Research Data Management Librarian
+  degree: PhD
+  github: 
+  interests:
+    - Data visulaizaiton
+    - Data management
+    - Data sharing
+    
+  name: Daniela Saderi
+  degree program: Neuroscience Graduate Program, PhD candidate
+  github: 
   interests:
     - Python
-    - R
+    - Hardware/software integration
