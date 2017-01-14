@@ -10,7 +10,7 @@
 - name: Lilly Winfree, PhD
   job title: Science and Data Analyst at the Monarch Initiative
   degree: PhD, Neuroscience 2016
-  github: 
+  github: lwinfree
   interests:
     - R
     - Python
@@ -19,25 +19,11 @@
 - name: Robin Champieux
   job title: OHSU Scholarly communications Librarian
   degree: MILS, Library Science
-  github: 
+  github: rchampieux
   interests:
     - Open Data
     - Data visualization
     - Data management
     - Data sharing
 
- name: Letisha Wyatt
- job title: OHSU Basic Science Liaison and Research Data Management Librarian
-  degree: PhD
-  github: 
-  interests:
-    - Data visualization
-    - Data management
-    - Data sharing
-    
-  name: Daniela Saderi
-  degree program: Neuroscience Graduate Program, PhD candidate
-  github: 
-  interests:
-    - Python
-    - Hardware/software integration
+ 
