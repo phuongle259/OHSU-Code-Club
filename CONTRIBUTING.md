@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contributing to UofTCoders
+title: Contributing to OHSU Code Club
 ---
 
 ## Running a lesson
