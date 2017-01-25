@@ -2,7 +2,7 @@
 title: Introduction to TensorFlow
 text: Ryan Swan presents an intro to TensorFlow
 location: BICC124
-link: course content goes here
+link: https://github.com/daniellecrobinson/OHSU-Code-Club/issues/16
 date: 2017-02-02
 startTime: '14:00'
 endTime: '15:00'
