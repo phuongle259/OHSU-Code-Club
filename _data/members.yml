@@ -1,7 +1,7 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Sam Papadakis
+  degree: PhD student in NGP
+  github: spapadak
   interests:
-     - R
-     - Data Visualization
+     - bash
+     - fMRI
 
