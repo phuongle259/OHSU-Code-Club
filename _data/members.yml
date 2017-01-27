@@ -1,6 +1,6 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Emile Latour
+  degree: MS, Biostatistics
+  github: emilelatour
   interests:
      - R
      - Data Visualization
