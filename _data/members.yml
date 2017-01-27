@@ -1,6 +1,6 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Chris Loo
+  degree: PhD, Microbiology and Immunology
+  github: looc27
   interests:
      - R
      - Data Visualization
