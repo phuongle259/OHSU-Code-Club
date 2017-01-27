@@ -1,7 +1,8 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Nicole Bowles
+  degree: PhD, Neuroendocrinology
+          MS, Clinical Epidemiology
+  github: npbraids
   interests:
-     - R
-     - Data Visualization
+     - Cooking
+     - Hiking
 
