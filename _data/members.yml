@@ -1,3 +1,4 @@
+
 - name: Emile Latour
   degree: MS, Biostatistics
   github: emilelatour
@@ -19,4 +20,10 @@
   interests:
      - data management
      - MATLAB
+     
+- name: Chris Loo
+  degree: PhD, Microbiology and Immunology
+  github: looc27
+  interests:
+     - R
  
