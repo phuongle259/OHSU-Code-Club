@@ -1,9 +1,8 @@
-
 - name: Emile Latour
   degree: MS, Biostatistics
   github: emilelatour
  
- - name: Daniela Saderi
+- name: Daniela Saderi
   degree: MS, Neuroscience
   github: dasaderiinterests:
      - Python
@@ -27,3 +26,9 @@
   interests:
      - R
  
+- name: Andy Kaempf
+  degree: MS, Biostatistics
+  github: example github
+  interests:
+     - R
+     - SAS
