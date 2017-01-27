@@ -32,3 +32,12 @@
   interests:
      - R
      - SAS
+
+- name: Amy Williams
+  degree: PhD Candidate, Behavioral Neuroscience
+  github: awilliams3693
+  interests:
+     - R
+     - Data Visualization
+     - Python
+     - MatLab 
