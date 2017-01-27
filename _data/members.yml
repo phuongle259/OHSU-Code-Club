@@ -1,7 +1,7 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Ben Murphy-Baum
+  degree: Graduate Student, Neuroscience
+  github: benmurphybaum
   interests:
-     - R
-     - Data Visualization
+     - retina
+     - electrophysiology
 
