@@ -1,7 +1,8 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Daniela Saderi
+  degree: MS, Neuroscience
+  github: dasaderi
   interests:
-     - R
+     - Python
+     - Data Science
      - Data Visualization
 
