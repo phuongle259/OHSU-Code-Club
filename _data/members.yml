@@ -1,7 +1,7 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
+- name: Andy Kaempf
+  degree: MS, Biostatistics
   github: example github
   interests:
      - R
-     - Data Visualization
+     - SAS
 
