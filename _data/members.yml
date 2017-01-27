@@ -1,7 +1,50 @@
+- name: Emile Latour
+  degree: MS, Biostatistics
+  github: emilelatour
+ 
+- name: Daniela Saderi
+  degree: MS, Neuroscience
+  github: dasaderiinterests:
+     - Python
+     - Data Science
+     - Data Visualization
+
+- name: Holly D'Andrea-Newbee
+  degree: BS, Neuroscience
+  github: hdandrea
+  
+- name: Tavita Garrett
+  degree: PhD, Neuroscience
+  github: tgarrett12
+  interests:
+     - data management
+     - MATLAB
+     
+- name: Chris Loo
+  degree: PhD, Microbiology and Immunology
+  github: looc27
+  interests:
+     - R
+ 
+- name: Andy Kaempf
+  degree: MS, Biostatistics
+  github: example github
+  interests:
+     - R
+     - SAS
+
+- name: Amy Williams
+  degree: PhD Candidate, Behavioral Neuroscience
+  github: awilliams3693
+  interests:
+     - R
+     - Data Visualization
+     - Python
+     - MatLab 
+     
 - name: Sam Papadakis
   degree: PhD student in NGP
   github: spapadak
   interests:
      - bash
      - fMRI
-
