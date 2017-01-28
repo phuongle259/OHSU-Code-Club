@@ -33,9 +33,10 @@
  
 - name: Andy Kaempf
   degree: MS, Biostatistics
-  github: example github
+  github: andykaempf
   interests:
      - R
+     - command line
      - SAS
      
 - name: Ben Murphy-Baum
@@ -78,3 +79,4 @@
      - python
      - R
      - outdoors stuff
+
