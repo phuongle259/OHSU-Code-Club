@@ -5,8 +5,7 @@
   interests:
     - R
     - Data visualization
-- Open data and data policy issues
-
+    - Open data and data policy issues
 - name: Emile Latour
   degree: MS, Biostatistics
   github: emilelatour
@@ -56,8 +55,7 @@
      - electrophysiology
      
 - name: Nicole Bowles
-  degree: PhD, Neuroendocrinology
-          MS, Clinical Epidemiology
+  degree: PhD, Neuroendocrinology and MS, Clinical Epidemiology
   github: npbraids
   interests:
      - Cooking
@@ -88,4 +86,3 @@
      - python
      - R
      - outdoors stuff
-
