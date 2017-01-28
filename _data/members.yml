@@ -1,6 +1,8 @@
 - name: Emile Latour
   degree: MS, Biostatistics
   github: emilelatour
+  interests:
+     - Fun
  
 - name: Daniela Saderi
   degree: MS, Neuroscience
@@ -12,6 +14,8 @@
 - name: Holly D'Andrea-Newbee
   degree: BS, Neuroscience
   github: hdandrea
+  interests:
+     - Fun
   
 - name: Tavita Garrett
   degree: PhD, Neuroscience
