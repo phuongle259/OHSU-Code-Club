@@ -1,10 +1,19 @@
+- name: Danielle Robinson
+  job title: Mozilla Fellow for Science 2016
+  degree: PhD, Neuroscience
+  github: daniellecrobinson
+  interests:
+    - R
+    - Data visualization
+- Open data and data policy issues
+
 - name: Emile Latour
   degree: MS, Biostatistics
   github: emilelatour
   interests:
      - Fun
  
- - name: Daniela Saderi
+- name: Daniela Saderi
   degree: MS, Neuroscience
   github: dasaderi
   interests:
