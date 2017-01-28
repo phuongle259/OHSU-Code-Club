@@ -33,6 +33,13 @@
      - R
      - SAS
      
+ - name: Ben Murphy-Baum
+  degree: Graduate Student, Neuroscience
+  github: benmurphybaum
+  interests:
+     - retina
+     - electrophysiology
+     
 - name: Nicole Bowles
   degree: PhD, Neuroendocrinology
           MS, Clinical Epidemiology
